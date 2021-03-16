@@ -1,0 +1,23 @@
+ul {
+  display: flex;
+  justify-content: center;
+}
+ul li {
+  list-style: none;
+  padding-left: 20px;
+}
+.menu {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #7e0019;
+  color: white;
+}
+.club-up {
+}
+.hide {
+  display: none;
+}
+.hide:hover {
+  display: flex;
+}
