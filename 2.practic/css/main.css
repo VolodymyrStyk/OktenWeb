@@ -20,15 +20,21 @@ ul li{
 .aside-nav-sec ul{
     padding: 0;
 }
+.left-aside-menu{
+    font-size: 78%;
+    margin-right: 10px;
+}
+.left-aside-menu .aside-nav-sec h4{
+    border-bottom: 1px solid gray;
+}
 
-/*====ASIDE*/
-header .header-desc{
+/*====  /ASIDE*/
+ .header-desc{
     display: flex;
     flex-direction: column;
 }
 .wrap-table-desc{
     display: flex;
-
 }
 div.conteiner {
     padding: 20px 24px;
@@ -47,34 +53,39 @@ h1 {
     border-bottom: 1px solid #a2a9b1;
     margin: 0 7px 0 0;
 }
-
+p {
+     text-align: justify;
+ }
 .table-img{
-    border: 1px solid #a2a9b1;
     border-spacing: 3px;
     background-color: #f8f9fa;
     font-size: 88%;
     line-height: 1.5em;
     padding: 0.2em;
     float: right;
-    clear: right;
     width: 280px;
-
+}
+table{
+    margin-left: 10px;
+    border: 1px solid #a2a9b1;
 }
 table th{
     font-weight: bold;
-    background-color: #C0C0C0;
     padding: 1px;
     vertical-align: top;
     text-align: left;
 }
-table .table-header{
+table .table-header-main{
     font-size: 1.35em;
     padding: 4px;
     text-align: center;
+    background-color: #C0C0C0;
 }
-.th-bg-op{
-    background-color: transparent;
+.table-header{
+    text-align: center;
+    background-color: #C0C0C0;
 }
+
 .navigation {
     border: 1px solid #a2a9b1;
     background-color: #f8f9fa;
@@ -112,24 +123,40 @@ table .table-header{
     color: #000000;
     padding: 0;
     border-bottom: 1px solid #a2a9b1;
-    margin: 20px 7px 0 0;
+    margin: 20px 7px 10px 0;
 }
 figure{
-    display: inline-block;
-}
-.figure-int{
-    float: left;
-    width: 220px;
     margin: 0;
-    margin-right: 20px;
+    margin-top: 20px;
 }
-.first-generation .img-interior{
+.figure-right{
+    float: right;
+    margin-left: 20px;
+    clear: both;
+}
+.right-img{
+    width: 200px;
+    font-size: 92%;
+    clear: both;
+}
+.figure-left{
+    float: left;
+    margin-right: 20px;
+
+}
+.generation{
+
+}
+.generation .img-interior{
     width: 220px;
 }
-.first-generation figure{
+.generation figure{
     border: 1px solid #a2a9b1;
     padding: 0.2em;
     background-color: #f8f9fa;
+}
+figure img{
+    border: 1px solid #a2a9b1;
 }
 .text-first-gen{
     display: inline-block;
@@ -139,4 +166,38 @@ figure{
 }
 .first-gen-table{
     float: right;
+
+}
+.gallery-img{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.gallery-img .gallery-img-fig{
+    border: none;
+    clear: both;
+}
+.gallery-img-fig img{
+    width: 200px;
+    height: 110px;
+    padding: 40px 15px;
+}
+.margin-z{
+    margin: 0;
+}
+.frannce-flag{
+    display: flex;
+    align-items: center;
+}
+.clear{
+    clear: both;
+}
+.table-sales th,.table-sales td,.table-sales {
+    padding: 3px;
+    border-collapse: collapse;
+    border:1px solid #a2a9b1;
+    text-align: center;
+}
+.table-sales th{
+    background: #e2e2e2;
 }
