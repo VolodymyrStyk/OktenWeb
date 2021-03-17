@@ -1,0 +1,142 @@
+body {
+    line-height: 1.6;
+    font-family: sans-serif;
+    background-color: #f6f6f6;
+    height: 100%;
+    font-size: 100%;
+    display: flex;
+}
+header{
+    display: flex;
+    flex-direction: column;
+}
+a{
+    text-decoration: none;
+}
+ul li{
+    list-style: none;
+}
+/*==== ASIDE*/
+.aside-nav-sec ul{
+    padding: 0;
+}
+
+/*====ASIDE*/
+header .header-desc{
+    display: flex;
+    flex-direction: column;
+}
+.wrap-table-desc{
+    display: flex;
+
+}
+div.conteiner {
+    padding: 20px 24px;
+    border: 1px solid #a7d7f9;
+    background-color: #ffffff;
+    font-size: calc(1em * 0.875);
+}
+
+h1 {
+    font-size: 1.8em;
+    font-family: 'Linux Libertine', 'Georgia', 'Times', serif;
+    line-height: 1.3;
+    font-weight: normal;
+    color: #000000;
+    padding: 0;
+    border-bottom: 1px solid #a2a9b1;
+    margin: 0 7px 0 0;
+}
+
+.table-img{
+    border: 1px solid #a2a9b1;
+    border-spacing: 3px;
+    background-color: #f8f9fa;
+    font-size: 88%;
+    line-height: 1.5em;
+    padding: 0.2em;
+    float: right;
+    clear: right;
+    width: 280px;
+
+}
+table th{
+    font-weight: bold;
+    background-color: #C0C0C0;
+    padding: 1px;
+    vertical-align: top;
+    text-align: left;
+}
+table .table-header{
+    font-size: 1.35em;
+    padding: 4px;
+    text-align: center;
+}
+.th-bg-op{
+    background-color: transparent;
+}
+.navigation {
+    border: 1px solid #a2a9b1;
+    background-color: #f8f9fa;
+    display: table;
+    padding: 7px;
+    font-size: 95%;
+    width: 245px;
+}
+.nav-header{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.nav-header span{
+    font-weight: bold;
+}
+.navigation ol {
+    list-style: none;
+    counter-reset: section;
+}
+
+.navigation li::before {
+    counter-increment: section;
+    content: counters(section, ".") "   ";
+}
+.nav-list{
+    padding: 0;
+}
+/*==== Firs-Generation*/
+.sub-header{
+    font-size: 1.8em;
+    font-family: 'Linux Libertine', 'Georgia', 'Times', serif;
+    line-height: 1.3;
+    font-weight: normal;
+    color: #000000;
+    padding: 0;
+    border-bottom: 1px solid #a2a9b1;
+    margin: 20px 7px 0 0;
+}
+figure{
+    display: inline-block;
+}
+.figure-int{
+    float: left;
+    width: 220px;
+    margin: 0;
+    margin-right: 20px;
+}
+.first-generation .img-interior{
+    width: 220px;
+}
+.first-generation figure{
+    border: 1px solid #a2a9b1;
+    padding: 0.2em;
+    background-color: #f8f9fa;
+}
+.text-first-gen{
+    display: inline-block;
+}
+.text-first-gen p{
+    display: inline-block;
+}
+.first-gen-table{
+    float: right;
+}
