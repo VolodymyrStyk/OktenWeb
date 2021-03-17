@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aea82c86-51c6-48ee-8c34-5e0e68f5476b" name="Default Changelist" comment="fix: prepare to deploy">
+      <change afterPath="$PROJECT_DIR$/3.practic/Responsive_Web_Design.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.practic/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.practic/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.practic/template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.practic/template1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.practic/template1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.practic/template2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.practic/template2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.practic/template3.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.practic/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/2.practic/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.practic/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2.practic/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +32,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="html-and-css" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -45,12 +52,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable" value="ALL" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/3.practic" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="liveEdit" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\0.OktenWeb\HTML-CSS\3.practic" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\0.OktenWeb\HTML-CSS\" />
       <recent name="D:\0.OktenWeb\HTML-CSS\0.lesson" />
@@ -62,6 +72,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.index.html" />
