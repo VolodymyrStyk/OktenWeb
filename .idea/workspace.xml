@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aea82c86-51c6-48ee-8c34-5e0e68f5476b" name="Default Changelist" comment="fix: prepare to deploy">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.practic/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/2.practic/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.practic/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2.practic/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.practic/Responsive_Web_Design.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.practic/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.practic/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.practic/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.practic/template1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.practic/template1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.practic/template2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.practic/template2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.practic/template3.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +126,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>

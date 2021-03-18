@@ -1,0 +1,13 @@
+.container {
+  width: 900px;
+  margin: 0px auto;
+  border: 1px solid black;
+  padding: 20px;
+  background-color: lightgray;
+  display: flex;
+  flex-direction: column;
+}
+img,
+ul {
+  margin: 0 auto;
+}
