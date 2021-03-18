@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aea82c86-51c6-48ee-8c34-5e0e68f5476b" name="Default Changelist" comment="fix: prepare to deploy">
-      <change afterPath="$PROJECT_DIR$/3.practic/Responsive_Web_Design.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.practic/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.practic/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.practic/template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.practic/template1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.practic/template1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.practic/template2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.practic/template2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.practic/template3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="aea82c86-51c6-48ee-8c34-5e0e68f5476b" name="Default Changelist" comment="add" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,7 +109,21 @@
       <option name="project" value="LOCAL" />
       <updated>1615988258982</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="int: finish practic 3">
+      <created>1616024736472</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1616024736472</updated>
+    </task>
+    <task id="LOCAL-00006" summary="int: finish practic 3">
+      <created>1616024751386</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1616024751386</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,7 +145,9 @@
     <MESSAGE value="feat: add css style for HTML" />
     <MESSAGE value="fix: prepare to deploy" />
     <MESSAGE value="feat: update" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: update" />
+    <MESSAGE value="int: finish practic 3" />
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
